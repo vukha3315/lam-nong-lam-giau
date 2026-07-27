@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
+  <!-- Trang chủ -->
   <url>
     <loc>https://vukha3315.github.io/lam-nong-lam-giau/</loc>
     <lastmod>2026-07-28</lastmod>
     <priority>1.0</priority>
   </url>
 
+  <!-- Bài viết 1: Công thức cám nổi -->
   <url>
     <loc>https://vukha3315.github.io/lam-nong-lam-giau/cong-thuc-cam-noi.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Bài viết 2: Kỹ thuật nuôi lươn bể bê tông -->
+  <url>
+    <loc>https://vukha3315.github.io/lam-nong-lam-giau/ky-thuat-nuoi-luon-be-be-tong.html</loc>
     <lastmod>2026-07-28</lastmod>
     <priority>0.8</priority>
   </url>
