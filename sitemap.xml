@@ -33,4 +33,12 @@
     <priority>0.80</priority>
 </url>
   
+    <!-- Bài: Kỹ thuật nuôi cá chình bông -->
+  <url>
+    <loc>https://vukha3315.github.io/lam-nong-lam-giau/ky-thuat-nuoi-ca-chinh-bong.html</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
 </urlset>
