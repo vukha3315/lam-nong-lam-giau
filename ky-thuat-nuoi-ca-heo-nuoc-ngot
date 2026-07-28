@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kỹ Thuật Nuôi Cá Heo Nước Ngọt Thương Phẩm Trọn Bộ [Kinh Nghiệm 30 Năm]</title>
+    <meta name="description" content="Hướng dẫn toàn tập kỹ thuật nuôi cá heo nước ngọt thương phẩm đạt năng suất cao. Chi tiết mô hình lồng bè, bể bạt, công thức thức ăn, mật độ thả và phác đồ điều trị 4 bệnh thường gặp.">
+    <meta name="keywords" content="kỹ thuật nuôi cá heo nước ngọt thương phẩm, nuôi cá heo nước ngọt, cá heo miền tây, nuôi cá heo bể bạt, bệnh cá heo nước ngọt">
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1HCBGZGHPG"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-1HCBGZGHPG');
+    </script>
+
+    <style>
+        :root {
+            --primary-color: #2e7d32;
+            --primary-dark: #1b5e20;
+            --primary-light: #e8f5e9;
+            --accent-color: #f57c00;
+            --text-color: #2c3e50;
+            --bg-body: #f4f7f6;
+            --bg-card: #ffffff;
+            --border-color: #e0e0e0;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.7; color: var(--text-color); background-color: var(--bg-body); padding-bottom: 70px; }
+        .container { max-width: 860px; margin: 0 auto; padding: 15px; }
+        
+        header { background: linear-gradient(135deg, var(--primary-dark), var(--primary-color)); color: white; padding: 25px 20px; text-align: center; border-radius: 0 0 12px 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); margin-bottom: 20px; }
+        header h1 { font-size: 22px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; }
+        header p { margin-top: 8px; font-size: 14px; opacity: 0.9; }
+        .back-link { display: inline-block; margin-top: 10px; color: #a5d6a7; text-decoration: none; font-weight: bold; font-size: 14px; transition: 0.2s; }
+        .back-link:hover { color: #ffffff; text-decoration: underline; }
+
+        article { background: var(--bg-card); padding: 25px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+        .article-title { color: var(--primary-dark); font-size: 24px; line-height: 1.3; margin-bottom: 15px; border-bottom: 3px solid var(--primary-color); padding-bottom: 10px; }
+        
+        h2 { color: var(--primary-dark); font-size: 19px; margin-top: 30px; margin-bottom: 12px; padding-left: 10px; border-left: 4px solid var(--primary-color); }
+        h3 { color: #333; font-size: 16px; margin-top: 20px; margin-bottom: 10px; font-weight: 700; }
+        p { margin-bottom: 15px; text-align: justify; font-size: 15px; }
+        ul, ol { margin-bottom: 15px; padding-left: 20px; font-size: 15px; }
+        li { margin-bottom: 6px; }
+
+        /* Custom Box Components */
+        .summary-table-box { background: #f9fbe7; border: 1px solid #c0ca33; border-radius: 8px; padding: 15px; margin: 20px 0; }
+        .summary-table-box h3 { color: #827717; margin-top: 0; }
+        
+        .box-explain { background: #e1f5fe; border-left: 5px solid #0288d1; padding: 15px; margin: 18px 0; border-radius: 0 6px 6px 0; font-size: 14.5px; }
+        .box-tip { background: var(--primary-light); border-left: 5px solid var(--primary-color); padding: 15px; margin: 18px 0; border-radius: 0 6px 6px 0; font-size: 14.5px; }
+        .box-warning { background: #fff3e0; border-left: 5px solid var(--accent-color); padding: 15px; margin: 18px 0; border-radius: 0 6px 6px 0; font-size: 14.5px; }
+        
+        .box-title { font-weight: bold; margin-bottom: 5px; display: block; font-size: 15px; }
+
+        /* Tables */
+        .table-responsive { overflow-x: auto; margin: 20px 0; }
+        table { width: 100%; border-collapse: collapse; font-size: 14px; background: #fff; }
+        th, td { border: 1px solid var(--border-color); padding: 10px 12px; text-align: left; }
+        th { background-color: var(--primary-color); color: white; font-weight: 600; white-space: nowrap; }
+        tr:nth-child(even) { background-color: #f8f9fa; }
+
+        /* Image Placeholders */
+        figure { margin: 20px 0; text-align: center; }
+        figure img { width: 100%; max-width: 700px; height: auto; border-radius: 8px; border: 1px solid var(--border-color); }
+        figcaption { font-size: 13px; color: #666; margin-top: 6px; font-style: italic; }
+
+        /* Internal Link Box */
+        .internal-link-box { background: #fafafa; border: 1px dashed var(--primary-color); padding: 12px 15px; border-radius: 6px; margin: 20px 0; font-size: 14.5px; }
+        .internal-link-box a { color: var(--primary-dark); font-weight: bold; text-decoration: none; }
+        .internal-link-box a:hover { text-decoration: underline; color: var(--accent-color); }
+
+        /* Call To Action */
+        .cta-box { background: linear-gradient(to right, #1b5e20, #2e7d32); color: white; padding: 20px; border-radius: 8px; text-align: center; margin-top: 30px; }
+        .cta-box h3 { color: #fff; font-size: 18px; margin-top: 0; }
+        .cta-box p { text-align: center; margin-bottom: 15px; font-size: 14px; opacity: 0.95; }
+        .cta-btn { display: inline-block; background: #25d366; color: white; font-weight: bold; padding: 12px 25px; border-radius: 25px; text-decoration: none; font-size: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: 0.3s; }
+        .cta-btn:hover { background: #128c7e; transform: translateY(-2px); }
+
+        /* Zalo Floating Button */
+        .zalo-float { position: fixed; bottom: 20px; right: 20px; z-index: 9999; background: #0088ff; color: white; width: 55px; height: 55px; border-radius: 50%; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; text-decoration: none; font-weight: bold; font-size: 13px; border: 2px solid #ffffff; }
+        .zalo-float:hover { transform: scale(1.08); }
+
+        footer { text-align: center; margin-top: 25px; padding: 15px; font-size: 13px; color: #777; border-top: 1px solid var(--border-color); }
+
+        @media (max-width: 600px) {
+            article { padding: 15px; }
+            .article-title { font-size: 20px; }
+            h2 { font-size: 17px; }
+            th, td { padding: 8px; font-size: 13px; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Floating Zalo Button -->
+    <a href="https://zalo.me/84383191185" target="_blank" rel="noopener noreferrer" class="zalo-float" title="Tư vấn Zalo">
+        <span>Zalo</span>
+    </a>
+
+    <div class="container">
+        <header>
+            <h1>LÀM NÔNG LÀM GIÀU</h1>
+            <p>Trang Chia Sẻ Kỹ Thuật Thủy Sản Thực Chiến Chuẩn Nhất</p>
+            <a href="index.html" class="back-link">← Quay lại trang chủ</a>
+        </header>
+
+        <article>
+            <h1 class="article-title">Kỹ Thuật Nuôi Cá Heo Nước Ngọt Thương Phẩm Đạt Năng Suất Cao: Cẩm Nang Toàn Tập Từ Chuyên Gia</h1>
+
+            <p>Cá heo nước ngọt (tên khoa học: <em>Yasuhikotakia modesta</em>) là loài cá đặc sản có giá trị kinh tế bậc nhất tại lưu vực sông Mê Kông. Với chất lượng thịt thơm ngon, béo ngậy đặc trưng, cá heo luôn thuộc nhóm thủy sản đắt hàng tại các nhà hàng, đại lý hải sản lớn với mức giá dao động từ 350.000 đến 500.000 VNĐ/kg. Bối cảnh nguồn giống tự nhiên ngày càng suy giảm đã mở ra cơ hội vàng cho bà con nông dân chuyển đổi sang mô hình nuôi thương phẩm thâm canh.</p>
+
+            <p>Tuy nhiên, cá heo nước ngọt là loài cá da trơn tương đối nhạy cảm, có tập tính sống đáy, thích dòng chảy và rất dễ gặp rủi ro nếu người nuôi không nắm vững các chỉ số hóa sinh nguồn nước, kỹ thuật làm giá thể trú ẩn cũng như chế độ dinh dưỡng chuyên biệt. Bài viết này là toàn bộ quy trình <strong>kỹ thuật nuôi cá heo nước ngọt thương phẩm</strong> được tổng hợp từ hơn 30 năm kinh nghiệm thực chiến, giải quyết triệt để mọi khó khăn mà bà con thường gặp phải.</p>
+
+            <div class="summary-table-box">
+                <h3>BẢNG TỔNG HỢP THÔNG SỐ VÀNG TRONG KỸ THUẬT NUÔI CÁ HEO NƯỚC NGỌT</h3>
+                <div class="table-responsive">
+                    <table>
+                        <tr>
+                            <th>Hạng Mục Kỹ Thuật</th>
+                            <th>Thống Số Chuẩn Tối Ưu</th>
+                            <th>Ngưỡng An Toàn Chấp Nhận</th>
+                        </tr>
+                        <tr>
+                            <td>Nhiệt độ nước ($T$)</td>
+                            <td>27°C - 29°C</td>
+                            <td>25°C - 32°C (Dưới 22°C cá bỏ ăn)</td>
+                        </tr>
+                        <tr>
+                            <td>Độ pH môi trường</td>
+                            <td>6.8 - 7.5</td>
+                            <td>6.5 - 8.0 (Biến động ngày đêm &lt; 0.5)</td>
+                        </tr>
+                        <tr>
+                            <td>Oxy hòa tan ($DO$)</td>
+                            <td>&ge; 4.5 mg/L</td>
+                            <td>&ge; 3.0 mg/L (Dưới 2.5 mg/L cá nổi đầu)</td>
+                        </tr>
+                        <tr>
+                            <td>Độ kiềm ($HCO_3^-$)</td>
+                            <td>90 - 120 mg/L</td>
+                            <td>70 - 150 mg/L</td>
+                        </tr>
+                        <tr>
+                            <td>Khí độc $NH_3$ / $NO_2$</td>
+                            <td>$NH_3$ &lt; 0.01 mg/L | $NO_2$ &lt; 0.1 mg/L</td>
+                            <td>Tuyệt đối không có tích tụ $NO_2$</td>
+                        </tr>
+                        <tr>
+                            <td>Mật độ thả (Bể bạt/Xi măng)</td>
+                            <td>100 - 120 con/m²</td>
+                            <td>80 - 150 con/m² (Có sục khí mạnh)</td>
+                        </tr>
+                        <tr>
+                            <td>Mật độ thả (Lồng bè sông)</td>
+                            <td>150 - 200 con/m³</td>
+                            <td>100 - 250 con/m³</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <h2>1. Đặc Tính Sinh Học Chi Tiết & Tự Nhiên Của Cá Heo Nước Ngọt</h2>
+            <p>Để nuôi thành công bất kỳ đối tượng thủy sản nào, việc hiểu rõ bản năng sinh học là điều kiện tiên quyết. Cá heo nước ngọt có những đặc điểm giải phẫu và tập tính rất riêng biệt:</p>
+            <ul>
+                <li><strong>Cơ quan tự vệ đặc biệt:</strong> Dưới hai hốc mắt của cá heo có hai gai nhọn cong cứng. Khi cá bị hoảng sợ, giật mình hoặc môi trường thay đổi đột ngột, chúng sẽ giương cặp gai này ra để tự vệ. Trong quá trình đánh bắt, vận chuyển mật độ dày, cặp gai này rất dễ đâm lẫn nhau gây trầy xước, nhiễm trùng da hàng loạt.</li>
+                <li><strong>Tập tính trú ẩn và hoạt động:</strong> Cá heo là loài cá nhút nhát, thích sống trong tối, nhạy cảm với ánh sáng mạnh. Ban ngày chúng thường chui rúc vào các khe đá, gốc cây, chà gai; ban đêm mới ra ngoài săn mồi. Do đó, hệ thống nuôi <em>bắt buộc phải trang bị hệ thống giá thể nhân tạo dày đặc</em>.</li>
+                <li><strong>Phát ra âm thanh:</strong> Khi bắt cá ra khỏi nước hoặc khi cá tranh giành thức ăn, chúng phát ra tiếng kêu "óc óc" nhỏ tương tự tiếng heo kêu. Đây cũng là nguồn gốc tên gọi cá heo nước ngọt của bà con miền Tây.</li>
+            </ul>
+
+            <figure>
+                <img src="images/ca-heo-nuoc-ngot-giong.jpg" alt="Cá heo nước ngọt giống khỏe mạnh có màu da cam sọc đen rõ nét" loading="lazy">
+                <figcaption>Hình 1: Cá heo nước ngọt giống chuẩn, da bóng, đuôi đỏ, vây cam tươi sáng không bị trầy xước.</figcaption>
+            </figure>
+
+            <div class="box-explain">
+                <span class="box-title">🔍 GIẢI THÍCH CHUYÊN SÂU: Khái niệm "Tải trọng độc chất $NO_2$ và $NH_3$ ở cá da trơn"</span>
+                Cá heo là loài cá da trơn, không có vảy bảo vệ, toàn bộ cơ thể tiếp xúc trực tiếp với môi trường nước qua lớp nhớt mỏng. Khí độc $NH_3$ (Ammonia tự do) thấm trực tiếp qua màng mang làm cháy mang cá, trong khi $NO_2$ (Nitrite) xâm nhập vào máu biến Hemoglobin (chất chở oxy) thành Methaemoglobin, làm mất khả năng vận chuyển Oxy trong cơ thể. Cá sẽ chết ngạt dù máy sục khí vẫn chạy tối đa.
+            </div>
+
+            <h2>2. So Sánh Đánh Giá Các Mô Hình Nuôi Cá Heo Thực Chiến</h2>
+            <p>Hiện nay có 3 mô hình nuôi cá heo nước ngọt thương phẩm chính đang được áp dụng rộng rãi. Mỗi mô hình có ưu và nhược điểm riêng phù hợp với từng điều kiện địa lý:</p>
+
+            <h3>2.1. Mô hình nuôi cá heo trong lồng bè trên sông (Tối ưu nhất cho vùng nước chảy)</h3>
+            <p>Được áp dụng phổ biến ở các tỉnh An Giang, Đồng Tháp, Cần Thơ dọc sông Tiền và sông Hậu. Nước sông lưu thông liên tục cung cấp lượng oxy dồi dào và cuốn trôi toàn bộ chất thải, giúp cá lớn nhanh, ít bệnh tật và thịt rất chắc.</p>
+            <ul>
+                <li><strong>Thiết kế bè:</strong> Kích thước bè phổ biến từ $3m \times 4m \times 2m$ hoặc $4m \times 6m \times 2.5m$. Khung bè làm bằng gỗ cứng hoặc thép kẽm chống gỉ.</li>
+                <li><strong>Lưới bao quanh:</strong> Dùng lưới dệt không gút mắt nhỏ ($0.5 - 1.0$ cm giai đoạn cá nhỏ) để tránh cá bị mắc gai dưới mắt vào lưới gây chết.</li>
+            </ul>
+
+            <h3>2.2. Mô hình nuôi cá heo trong bể bạt lót / Bể bê tông (Tối ưu kiểm soát)</h3>
+            <p>Đây là mô hình bứt phá giúp nông dân ở vùng không có sông lớn hoặc vùng nội đồng vẫn có thể làm giàu. Bể bạt giúp kiểm soát tuyệt đối 100% chất lượng nước, mầm bệnh từ bên ngoài và dễ dàng quản lý lượng thức ăn.</p>
+            <ul>
+                <li><strong>Diện tích bể chuẩn:</strong> $20m² - 50m²$, chiều cao thành bể $1.2m - 1.5m$, mức nước duy trì $0.8m - 1.2m$.</li>
+                <li><strong>Thiết kế đáy:</strong> Đáy bể phải làm độ dốc $3 - 5\%$ về phía rốn xả van phi 60mm hoặc phi 90mm để xả chất thải hàng ngày (Xi-phông).</li>
+            </ul>
+
+            <figure>
+                <img src="images/mo-hinh-nuoi-ca-heo-be-bat.jpg" alt="Mô hình nuôi cá heo nước ngọt trong bể bạt lót có hệ thống sục khí oxy" loading="lazy">
+                <figcaption>Hình 2: Bể bạt nuôi cá heo nước ngọt thương phẩm được trang bị hệ thống oxy đáy và chà chà giá thể.</figcaption>
+            </figure>
+
+            <h3>2.3. Mô hình nuôi kết hợp trong ao đất</h3>
+            <p>Thích hợp nuôi diện tích lớn ($500m² - 2.000m²$). Tuy nhiên, tỷ lệ sống của cá heo nuôi trong ao đất thường thấp hơn ($50 - 65\%$) do khó thu hồi hoàn toàn cá ẩn nấp dưới bùn và khó kiểm soát lượng thức ăn dư thừa gây ô nhiễm đáy ao.</p>
+
+            <h2>3. Thiết Kế Hạ Tầng & Kỹ Thuật Làm Giá Thể Trú Ẩn Bắt Buộc</h2>
+            <p>Nhiều hộ nuôi thất bại nặng nề vì thả cá vào bể trống không có giá thể. Cá không có chỗ trốn sẽ bị căng thẳng (stress) kéo dài, bỏ ăn, bơi hoảng loạn đâm vào nhau làm rách da và chết rải rác.</p>
+
+            <div class="box-tip">
+                <span class="box-title">💡 MẸO THỰC CHIẾN: Kỹ thuật làm giá thể "Chà Ống PVC Kết Hợp Lưới Cước"</span>
+                <strong>Cách làm:</strong> Dùng các đoạn ống nhựa PVC phi 34mm - 42mm, cắt thành từng đoạn dài $40 - 50$ cm. Bó từ $10 - 15$ đoạn ống lại thành một cụm. Dùng dây cước buộc cố định các cụm ống này treo lơ lửng cách đáy bể $10 - 15$ cm. Khoảng cách giữa các cụm là $0.8m - 1m$.<br>
+                <em>Tác dụng:</em> Cá heo rất thích chui vào trong ống nhựa. Mỗi bó ống có thể làm nơi trú ẩn cho $300 - 500$ con cá heo, giúp tăng diện tích phân bố trong bể lên gấp 3 lần!
+            </div>
+
+            <h2>4. Chuẩn Bị Nguồn Nước & Quy Trình Thả Giống Tỷ Lệ Sống &gt; 95%</h2>
+
+            <h3>4.1. Quy trình xử lý nước cấp trước khi nuôi</h3>
+            <ol>
+                <li><strong>Nước sông/kênh rạch:</strong> Bơm qua ao lắng, chạy quạt nước 2 ngày. Tạt Chlorine liều $20 - 30$ g/m³ ($20 - 30$ ppm) để diệt khuẩn và ký sinh trùng. Sau 3 ngày, tạt Thiosulfate sodium liều $5 - 10$ g/m³ để khử sạch Chlorine dư.</li>
+                <li><strong>Nước giếng khoan:</strong> Phải qua hệ thống giàn mưa khử phèn sắt ($Fe^{2+}$), nâng pH đạt trên 6.8 và sục khí liên tục 24 - 48 giờ để thoát hết khí độc $H_2S$, $CO_2$ trước khi cấp vào bể nuôi.</li>
+            </ol>
+
+            <h3>4.2. Chọn và thuần dưỡng cá giống</h3>
+            <ul>
+                <li><strong>Kích cỡ giống chuẩn:</strong> Chọn cá giống kích cỡ $300 - 500$ con/kg (hoặc $150 - 200$ con/kg nếu nuôi rút ngắn thời gian). Không chọn cá quá nhỏ (&lt; 800 con/kg) vì sức đề kháng kém.</li>
+                <li><strong>Nguồn gốc:</strong> Ưu tiên cá giống dưỡng nhân tạo, màu sắc đồng đều, không bị lở loét, vây đuôi nguyên vẹn, không bị nhiễm nấm.</li>
+            </ul>
+
+            <div class="box-warning">
+                <span class="box-title">⚠️ CẢNH BÁO RỦI RO: Hiện tượng sốc nhiệt & sốc pH khi thả cá giống</span>
+                Nếu chênh lệch nhiệt độ giữa bao chứa cá và nước bể nuôi &gt; 2°C, cá sẽ bị sốc nhiệt ngất xỉu ngay khi thả. <br>
+                <strong>Quy trình thuần hóa đúng:</strong> Ngâm nguyên bao cá giống xuống bể nuôi từ $20 - 30$ phút cho cân bằng nhiệt độ. Sau đó mở miệng bao, múc từng gáo nước trong bể đổ từ từ vào bao, chờ 5 phút rồi mới nghiêng miệng bao cho cá tự bơi ra ngoài. <strong>Tuyệt đối không đổ ụp bao cá vào bể!</strong>
+            </div>
+
+            <div class="internal-link-box">
+                🔗 <strong>Bài viết nên đọc:</strong> Để kết hợp mô hình chăn nuôi đa dạng, bà con có thể tham khảo thêm <a href="ky-thuat-nuoi-luon-be-be-tong.html">Kỹ thuật nuôi lươn không bùn trong bể bê tông đạt năng suất vượt trội</a>.
+            </div>
+
+            <h2>5. Chế Độ Dinh Dưỡng, Công Thức Phối Trộn & Lịch Cho Ăn Thực Chiến</h2>
+            <p>Cá heo nước ngọt thuộc nhóm động vật ăn tạp thiên về mùn bã hữu cơ và động vật nhỏ. Để cá lớn nhanh, ít bệnh và tối ưu chi phí, bà con cần áp dụng công thức dinh dưỡng theo từng giai đoạn phát triển:</p>
+
+            <figure>
+                <img src="images/cho-ca-heo-nuoc-ngot-an.jpg" alt="Cho cá heo nước ngọt ăn thức ăn phối trộn tại lồng bè" loading="lazy">
+                <figcaption>Hình 3: Cho cá heo nước ngọt ăn đúng giờ, đúng khẩu phần để tránh dư thừa làm bẩn môi trường nước.</figcaption>
+            </figure>
+
+            <h3>5.1. Khẩu phần đạm và loại thức ăn theo độ tuổi</h3>
+            <div class="table-responsive">
+                <table>
+                    <tr>
+                        <th>Giai Đoạn Nuôi</th>
+                        <th>Hàm Lượng Đạm Tối Ưu</th>
+                        <th>Loại Thức Ăn Chuyên Dùng</th>
+                        <th>Tỷ Lệ Cho Ăn (% Trọng Lượng Cá)</th>
+                    </tr>
+                    <tr>
+                        <td>Tháng 1 - Tháng 2</td>
+                        <td>40% - 42% Đạm</td>
+                        <td>Trùn quế, cá tạp xay nhuyễn, cám công nghiệp viên hạt nhỏ ($1.0 - 1.5$ mm)</td>
+                        <td>7% - 10% / ngày</td>
+                    </tr>
+                    <tr>
+                        <td>Tháng 3 - Tháng 5</td>
+                        <td>35% - 38% Đạm</td>
+                        <td>Cám nổi công nghiệp viên $2.0$ mm phối trộn trùn quế, ốc băm nhỏ</td>
+                        <td>4% - 6% / ngày</td>
+                    </tr>
+                    <tr>
+                        <td>Tháng 6 - Thu hoạch</td>
+                        <td>30% - 32% Đạm</td>
+                        <td>Cám viên nổi $3.0 - 4.0$ mm kết hợp thức ăn tự phối trộn vỗ béo</td>
+                        <td>2% - 3.5% / ngày</td>
+                    </tr>
+                </table>
+            </div>
+
+            <h3>5.2. Lịch cho ăn chuẩn theo khung giờ sinh học</h3>
+            <p>Do cá heo nhạy cảm với ánh sáng, bà con nên chia lượng thức ăn trong ngày làm 2 - 3 lần vào các khung giờ vàng:</p>
+            <ul>
+                <li><strong>Cữ sáng ($06h00 - 07h00$):</strong> Cho ăn $30\%$ tổng lượng thức ăn trong ngày. Khi trời còn dịu mát, cá sẽ ra ăn mạnh.</li>
+                <li><strong>Cữ chiều mát ($17h30 - 18h30$):</strong> Cho ăn $50\%$ tổng lượng thức ăn. Đây là cữ ăn chính vì cá bắt đầu đi săn mồi tự nhiên.</li>
+                <li><strong>Cữ đêm ($21h00 - 22h00$ - Dành cho giai đoạn vỗ béo):</strong> Cho ăn $20\%$ còn lại bằng thức ăn tươi sống hoặc cám đạm cao.</li>
+            </ul>
+
+            <div class="internal-link-box">
+                🔗 <strong>Tiết kiệm chi phí:</strong> Tự sản xuất thức ăn cho cá heo tại nhà giúp giảm $30\%$ chi phí chăn nuôi. Xem ngay <a href="cong-thuc-cam-noi.html">Hướng dẫn công thức phối trộn cám nổi thủy sản tiết kiệm chi phí</a>.
+            </div>
+
+            <h2>6. Quản Lý Môi Trường Nước & Xử Lý Sự Cố Bộc Phát</h2>
+
+            <h3>6.1. Quy trình vệ sinh và thay nước định kỳ</h3>
+            <ul>
+                <li><strong>Đối với bể bạt/xi măng:</strong> Mỗi ngày sau cữ ăn chiều $1$ tiếng, mở van rốn xả bớt $20 - 30\%$ nước đáy để loại bỏ hoàn toàn phân cá và thức ăn dư thừa. Định kỳ 3 ngày thay $50\%$ nước.</li>
+                <li><strong>Đối với lồng bè:</strong> Định kỳ 7 ngày dùng bàn chải chà sạch rêu bám xung quanh mặt lưới lồng bè để đảm bảo nước sông lưu thông tốt, tránh hiện tượng nghẹt lưới gây thiếu oxy cục bộ.</li>
+            </ul>
+
+            <h3>6.2. Xử lý các sự cố môi trường thường gặp</h3>
+            <ul>
+                <li><strong>Sự cố cá nổi đầu do thiếu oxy ($DO &lt; 2.5$ mg/L):</strong> Cá bơi lờ đờ trên mặt nước, tập trung nhiều ở ngách bể hoặc quanh vòi xả. <br>
+                <em>Xử lý khẩn cấp:</em> Bật tối đa máy sục khí, tạt ngay Oxy viên (Sodium Percarbonate) liều $1 - 2$ kg/1.000m³ nước. Ngừng cho ăn toàn bộ cữ đó.</li>
+                <li><strong>Sự cố pH giảm thấp bộc phát sau mưa lớn:</strong> Nước mưa chứa axit kéo pH xuống dưới 6.0 làm cá tiết nhiều nhớt, diễn ra tình trạng bỏ ăn. <br>
+                <em>Xử lý:</em> Hòa vôi tôi $Ca(OH)_2$ hoặc vôi nông nghiệp $CaCO_3$ liều $10 - 20$ g/m³ tạt đều quanh bể/lồng nuôi để nâng pH trở lại ngưỡng 7.0.</li>
+            </ul>
+
+            <h2>7. Phác Đồ Điều Trị 4 Bệnh Phổ Biến Nhất Trên Cá Heo Nước Ngọt</h2>
+            <p>Cá heo là loài da trơn, việc sử dụng hóa chất điều trị sai liều lượng có thể dẫn đến hiện tượng tróc nhớt và chết hàng loạt. Dưới đây là phác đồ điều trị thực chiến đã được chứng minh hiệu quả:</p>
+
+            <figure>
+                <img src="images/phac-do-dieu-tri-benh-ca-heo.jpg" alt="Kiểm tra cá heo bị bệnh xuất huyết lở loét da để điều trị" loading="lazy">
+                <figcaption>Hình 4: Quan sát dấu hiệu bệnh lý trên thân cá heo để áp dụng chính xác phác đồ điều trị.</figcaption>
+            </figure>
+
+            <h3>7.1. Bệnh 1: Bệnh Lở Loét, Xuất Huyết Da (Do vi khuẩn <em>Aeromonas hydrophila</em>)</h3>
+            <ul>
+                <li><strong>Dấu hiệu nhận biết:</strong> Thân cá xuất hiện các vết đốm đỏ, lở loét loang lổ, vây bị hoại tử xơ xước, cá bỏ ăn bơi tản mạn.</li>
+                <li><strong>Phác đồ điều trị 5 ngày:</strong>
+                    <ul>
+                        <li><em>Ngày 1:</em> Sát trùng nguồn nước bằng Iodine $90\%$ liều $1$ ml/m³ nước (hoặc BKC $80\%$ liều $0.5$ ml/m³), tạt vào lúc $09h00$ sáng. Bật sục khí liên tục.</li>
+                        <li><em>Ngày 2 - Ngày 5:</em> Trộn kháng sinh <strong>Oxytetracycline</strong> liều $50$ mg/kg cá/ngày (hoặc <strong>Doxycycline</strong> liều $30$ mg/kg cá/ngày) kết hợp $5$ g Vitamin C vào thức ăn. Giảm $50\%$ lượng thức ăn hàng ngày.</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h3>7.2. Bệnh 2: Bệnh Ký Sinh Trùng (Sán lá đơn chủ, Bánh xe <em>Trichodina</em>)</h3>
+            <ul>
+                <li><strong>Dấu hiệu nhận biết:</strong> Cá bị ngứa ngáy, bơi nhào lộn, cọ xát cơ thể vào thành bể/giá thể, mang cá nhạt màu và tiết ra nhiều dịch nhớt trắng đục.</li>
+                <li><strong>Phác đồ điều trị:</strong>
+                    <ul>
+                        <li>Sử dụng Phèn xanh (Đồng Sulfat $CuSO_4$) tạt liều $0.25 - 0.3$ g/m³ nước. Lưu ý: Chỉ dùng vào buổi sáng nắng tốt, không dùng lúc trời âm u.</li>
+                        <li>Hoặc dùng Muối hột pha ngâm tắm cá liều $2 - 3$ kg/m³ nước trong 30 phút, sau đó tiến hành thay nước mới.</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h3>7.3. Bệnh 3: Bệnh Nấm Thủy Mi / Đốm Trắng (Do nấm <em>Saprolegnia</em>)</h3>
+            <ul>
+                <li><strong>Dấu hiệu nhận biết:</strong> Xuất hiện các búi sợi tơ màu trắng như bông gòn bám trên da, vây, mang cá. Thường xảy ra vào mùa lạnh hoặc thời điểm giao mùa nhiệt độ xuống thấp (&lt; 24°C).</li>
+                <li><strong>Phác đồ điều trị:</strong>
+                    <ul>
+                        <li>Tạt dung dịch Bronopol (đặc trị nấm) liều $1$ ml/m³ nước liên tục 2 ngày.</li>
+                        <li>Trộn vào thức ăn men vi sinh đường ruột và Beta-Glucan liều $5$ g/kg thức ăn để nâng cao hệ miễn dịch cho cá.</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h3>7.4. Bệnh 4: Bệnh Sình Bụng, Đường Ruột (Do thức ăn ôi thiu / Dư thừa)</h3>
+            <ul>
+                <li><strong>Dấu hiệu nhận biết:</strong> Bụng cá trương phình to, hậu môn sưng đỏ, cá ngưng ăn, đi phân đứt đoạn có màu trắng nhầy kéo dài.</li>
+                <li><strong>Phác đồ điều trị:</strong>
+                    <ul>
+                        <li><em>Bước 1:</em> Cắt mồi hoàn toàn 1 - 2 ngày. Xả thay $50\%$ nước bể nuôi.</li>
+                        <li><em>Bước 2:</em> Cho ăn lại với $20\%$ định lượng, trộn <strong>Trimethoprim + Sulfamethoxazole</strong> liều $40$ mg/kg cá/ngày, ăn liên tục 4 ngày. Sau khi khỏi bệnh, bắt buộc trộn Men tiêu hóa sống (Lactobacillus) trong 5 ngày để phục hồi hệ vi sinh đường ruột.</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <div class="internal-link-box">
+                🔗 <strong>Xem thêm loài thủy sản giá trị cao:</strong> Tìm hiểu thêm về <a href="ky-thuat-nuoi-ca-chach-lau.html">Kỹ thuật nuôi cá chạch lấu trong bể bạt đạt trọng lượng tối đa</a>.
+            </div>
+
+            <h2>8. Kỹ Thuật Vỗ Béo & Thu Hoạch Cá Heo Không Bị Xây Xát</h2>
+            <p>Thời gian nuôi cá heo nước ngọt từ lúc thả giống ($300 - 500$ con/kg) đến khi thu hoạch kéo dài từ $7 - 9$ tháng. Kích cỡ thương phẩm đạt chuẩn xuất bán là từ $15 - 25$ con/kg.</p>
+
+            <h3>8.1. Quy trình vỗ béo 20 ngày trước khi thu hoạch</h3>
+            <ul>
+                <li>Tăng hàm lượng đạm trong thức ăn lên $40\%$ bằng cách bổ sung trùn quế tươi hoặc cá thịt băm nhỏ.</li>
+                <li>Bổ sung Dầu gan mực ($10$ ml/kg thức ăn) để tạo độ bóng da, màu sắc vàng cam tự nhiên rực rỡ, giúp thương lái thu mua với giá cao hơn từ $20.000 - 30.000$ VNĐ/kg.</li>
+            </ul>
+
+            <h3>8.2. Kỹ thuật thu hoạch và vận chuyển sống</h3>
+            <ol>
+                <li><strong>Ngưng cho ăn:</strong> Cắt thức ăn trước thời điểm thu hoạch 24 - 36 giờ để cá tiêu hóa hết thức ăn trong ruột, tránh làm bẩn nước trong quá trình vận chuyển.</li>
+                <li><strong>Rút giá thể nhẹ nhàng:</strong> Rút toàn bộ các ống nhựa giá thể ra ngoài trước khi kéo lưới. Thao tác nhẹ nhàng để tránh làm cá hoảng sợ, giương gai đâm nhau gây thương tổn.</li>
+                <li><strong>Đóng bao vận chuyển:</strong> Dùng bao nilon chuyên dụng có bơm Oxy tinh khiết. Cho nước sạch lạnh ($22°C - 24°C$) vào bao để làm giảm hoạt động sinh lý của cá, giúp cá sống khỏe trong suốt quá trình vận chuyển xa 10 - 12 tiếng.</li>
+            </ol>
+
+            <!-- Call to Action Box -->
+            <div class="cta-box">
+                <h3>BÀ CON CẦN TƯ VẤN KỸ THUẬT HOẶC ĐẶT MUA CÁ HEO GIỐNG CHUẨN?</h3>
+                <p>Chúng tôi chuyên cung cấp cá heo nước ngọt giống chất lượng cao, đã qua thuần dưỡng, tỷ lệ sống đạt trên 95% kèm hỗ trợ tư vấn kỹ thuật làm bể, xử lý nước miễn phí suốt mùa nuôi.</p>
+                <a href="https://zalo.me/84383191185" target="_blank" rel="noopener noreferrer" class="cta-btn">
+                    💬 KẾT NỐI ZALO BẤM VÀO ĐÂY (0383.191.185)
+                </a>
+            </div>
+
+        </article>
+
+        <footer>
+            <p>© 2026 Làm Nông Làm Giàu - Bản quyền thuộc về Cẩm Nang Kỹ Thuật Nông Nghiệp Thực Chiến</p>
+            <p><a href="index.html" style="color: #2e7d32; font-weight: bold; text-decoration: none;">Trở về trang chủ Website</a></p>
+        </footer>
+    </div>
+
+</body>
+</html>
