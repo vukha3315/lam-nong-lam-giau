@@ -46,6 +46,13 @@
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
+    <!-- Bài viết Kỹ Thuật Ủ Vi Sinh EM -->
+  <url>
+    <loc>https://vukha3315.github.io/lam-nong-lam-giau/ky-thuat-u-vi-sinh-em.html</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
   
 
 </urlset>
