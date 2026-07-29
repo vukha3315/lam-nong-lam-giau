@@ -74,5 +74,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
+    <!-- Bài viết Affiliate: Top bút đo pH độ mặn thủy sản -->
+  <url>
+    <loc>https://vukha3315.github.io/lam-nong-lam-giau/top-but-do-ph-do-man-thuy-san.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
   
 </urlset>
