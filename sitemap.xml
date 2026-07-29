@@ -67,5 +67,12 @@
     <priority>0.80</priority>
   </url>
   
-
+  <!-- Bài viết Affiliate: Top 5 máy ép cám viên nông nghiệp -->
+  <url>
+    <loc>https://vukha3315.github.io/top-may-ep-cam-vien-nong-nghiep.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  
 </urlset>
