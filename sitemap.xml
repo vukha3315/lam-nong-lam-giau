@@ -88,5 +88,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
+    <!-- Bài viết Đặc Trị Bệnh Thán Thư Ớt -->
+  <url>
+    <loc>https://vukha3315.github.io/lam-nong-lam-giau/dac-tri-than-thu-ot.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
   
 </urlset>
